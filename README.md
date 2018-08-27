@@ -6,4 +6,4 @@ I have written it in NetBeans IDE as you can see the packages.
 
 when you run the program you should see a frame as follows:
 
-![Alt text](relative/images/g1.png?raw=true "Title")
+![Alt text](https://github.com/Hazel1994/8_Queens_GA/blob/master/images/g1.png)
