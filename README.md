@@ -1,4 +1,4 @@
-#8-Queens problem using Genetic algorithm
+# 8-Queens problem using Genetic algorithm
 
 this is the implementation of 8-Queens problem using Genetic algorithm in Java
 
